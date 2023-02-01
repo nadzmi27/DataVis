@@ -1,2 +1,6 @@
 # DataViz
-Collection of data visualisation that I've done :D
+Collection of data visualisation that I'm proud of :D
+- [FIT3179 Homework](https://public.tableau.com/app/profile/nadzmi.ag.thomas/viz/HomeworkWeek4_16610832912340/Dashboard22)
+- [FIT3179 Assignment 1](https://public.tableau.com/app/profile/nadzmi.ag.thomas/viz/GlobalDataScienceMachineLearningJobsOverview-OnlineView/Dashboard1)
+- [FIT3179 Assignment 2](https://nadzmi1234.github.io/FIT3179-A2/)
+- ADD THE ETC1010 
